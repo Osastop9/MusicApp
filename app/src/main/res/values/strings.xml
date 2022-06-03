@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicAppTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="radiohead">RADIOHEAD</string>
+    <string name="today_s_hit">Today\'s Hit</string>
+    <string name="search">Search</string>
+    <string name="shuffle_play">Shuffle Play</string>
+    <string name="play">Play</string>
+    <string name="the_weekend">The Weekend</string>
+    <string name="starboy">Starboy</string>
+    <string name="eminem">Eminem</string>
+    <string name="rap_god">Rap God</string>
+    <string name="_1_32">1:32</string>
+    <string name="_3_31">3:31</string>
+    <string name="lyrics">I\'m trying to put you in the worst mood, ah PI cleaner than your church shoes, ah</string>
+</resources>
