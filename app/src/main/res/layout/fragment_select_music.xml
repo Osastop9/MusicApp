@@ -94,8 +94,10 @@
         app:layout_constraintTop_toBottomOf="@+id/editText"/>
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvPlaylist"
         android:layout_width="match_parent"
         android:layout_height="480dp"
+        android:layout_marginBottom="78dp"
         android:layout_marginTop="16dp"
         tools:itemCount="8"
         tools:listitem="@layout/music_item"

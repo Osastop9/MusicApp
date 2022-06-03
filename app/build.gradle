@@ -56,6 +56,7 @@ dependencies {
 
     // Glide
     implementation 'com.github.bumptech.glide:glide:4.12.0'
+    implementation 'com.mikhaellopez:circularimageview:4.3.0'
 
     // Paging
     implementation "androidx.paging:paging-runtime:3.1.1"
